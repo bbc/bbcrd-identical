@@ -1,0 +1,408 @@
+<svg width="1140" height="780" viewBox="0 0 1140 780" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Level 3 - v2">
+<g id="S">
+<path id="S_2" d="M1030.3 12.0016H1121.8V88.286L1111.16 97.2363L1110.26 97.9915L1111.15 98.7585L1121.29 107.521L1111.13 116.762L1110.31 117.502L1111.13 118.242L1121.35 127.536L1111.09 137.795L1110.31 138.576L1111.17 139.276L1121.35 147.606L1111.06 158.826L1110.44 159.502L1111.06 160.177L1121.8 171.891V192.566L1093.41 219.002H955.801V133.002V97.0017C955.801 75.2738 960.487 59.1407 967.462 47.1531C974.437 35.166 983.734 27.2693 993.039 22.0618C1002.35 16.8506 1011.67 14.333 1018.67 13.1198C1022.17 12.5135 1025.09 12.2341 1027.12 12.1061C1028.14 12.0422 1028.93 12.0161 1029.47 12.006C1029.74 12.0009 1029.95 11.9999 1030.08 12C1030.15 12.0001 1030.2 12.0005 1030.24 12.0008L1030.27 12.0013L1030.28 12.0014L1030.28 12.0015L1030.28 12.0015L1030.29 12.0016H1030.3Z" stroke="#FECA19" stroke-width="2"/>
+<circle id="Ellipse 245" cx="1038.31" cy="115.002" r="34.5" fill="#353535" stroke="#353535"/>
+<circle id="Ellipse 418" cx="1071.6" cy="171.821" r="21" fill="#FECA19"/>
+<circle id="Ellipse 423" cx="1084.8" cy="86" r="21" fill="#FECA19"/>
+<circle id="Ellipse 289" cx="1021.61" cy="47.9259" r="21" fill="#FECA19"/>
+<circle id="Ellipse 419" cx="982.801" cy="174.683" r="21" fill="#FECA19"/>
+<circle id="Ellipse 420" cx="1081.6" cy="41.8212" r="10" fill="#C4C4C4"/>
+<circle id="Ellipse 421" cx="984.895" cy="94.5048" r="10" fill="#C4C4C4"/>
+<circle id="Ellipse 422" cx="1019.33" cy="195.683" r="10" fill="#C4C4C4"/>
+<circle id="Ellipse 296" cx="1000.8" cy="129" r="10" fill="#C4C4C4"/>
+</g>
+<g id="C7">
+<circle id="Ellipse 449" cx="1084.3" cy="433.623" r="10" fill="#C4C4C4"/>
+<circle id="Ellipse 450" cx="1035.3" cy="364.623" r="10" fill="#C4C4C4"/>
+<circle id="Ellipse 451" cx="1083.3" cy="325.623" r="10" fill="#C4C4C4"/>
+<circle id="Ellipse 452" cx="1070.3" cy="278.623" r="21" fill="#FECA19"/>
+<circle id="Ellipse 453" cx="1074.3" cy="385.623" r="21" fill="#FECA19"/>
+<path id="C7_2" d="M1017 286.468V225H1122V460H1017V357V356H1016H992V287.468H1016H1017V286.468Z" stroke="#C4C4C4" stroke-width="2"/>
+<circle id="Ellipse 296_2" cx="1031" cy="319" r="10" fill="#C4C4C4"/>
+</g>
+<g id="C4">
+<circle id="Ellipse 513" cx="569" cy="259" r="10" fill="#C4C4C4"/>
+<circle id="Ellipse 514" cx="631.801" cy="222" r="10" fill="#C4C4C4"/>
+<circle id="Ellipse 515" cx="594" cy="224" r="10" fill="#C4C4C4"/>
+<circle id="Ellipse 516" cx="522" cy="279" r="10" fill="#C4C4C4"/>
+<circle id="Ellipse 528" cx="518.801" cy="233" r="21" fill="#FECA19"/>
+<circle id="Ellipse 530" cx="630" cy="267" r="21" fill="#FECA19"/>
+<path id="C4_2" d="M529.062 301H486V201H658V337.318L616.153 301.243L615.872 301H615.5H572.041H529.062Z" stroke="#C4C4C4" stroke-width="2"/>
+</g>
+<g id="E">
+<circle id="Ellipse 547" cx="116" cy="728" r="10" transform="rotate(-180 116 728)" fill="#C4C4C4"/>
+<circle id="Ellipse 548" cx="32" cy="721" r="10" transform="rotate(-180 32 721)" fill="#C4C4C4"/>
+<circle id="Ellipse 430" cx="81" cy="681" r="34.5" fill="#353535" stroke="#353535"/>
+<path id="E_2" d="M24.5711 752.179L24.012 751.79L23.4453 752.168L13 759.131V639.534L40.9681 606H191.988L219 643.456V760H159.303L147.555 752.168L147 751.798L146.445 752.168L134.989 759.806L123.039 752.158L122.52 751.826L121.99 752.14L109.056 759.804L98.5882 752.191L98.0561 751.804L97.4902 752.14L84.5313 759.819L73.0547 752.168L72.5216 751.813L71.9759 752.148L59.5464 759.797L49.0882 752.191L48.5464 751.797L47.9759 752.148L35.5336 759.805L24.5711 752.179Z" stroke="#C4C4C4" stroke-width="2"/>
+<circle id="Ellipse 545" cx="116" cy="638" r="10" transform="rotate(-180 116 638)" fill="#C4C4C4"/>
+<circle id="Ellipse 546" cx="142" cy="675" r="10" transform="rotate(-180 142 675)" fill="#C4C4C4"/>
+<g id="Group 969">
+<circle id="Ellipse 389" cx="181" cy="721" r="21" fill="#FECA19"/>
+<text id="2-5" fill="black" xml:space="preserve" style="white-space: pre" font-family="IBM Plex Mono" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="170.227" y="724.438">2-5</tspan></text>
+</g>
+<g id="Group 970">
+<circle id="Ellipse 389_2" cx="174" cy="644" r="21" fill="#FECA19"/>
+<text id="1-4" fill="black" xml:space="preserve" style="white-space: pre" font-family="IBM Plex Mono" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="163.227" y="647.438">1-4</tspan></text>
+</g>
+</g>
+<g id="D2">
+<circle id="Ellipse 541" cx="458" cy="674" r="10" transform="rotate(-180 458 674)" fill="#C4C4C4"/>
+<circle id="Ellipse 542" cx="317.801" cy="730" r="10" transform="rotate(-180 317.801 730)" fill="#C4C4C4"/>
+<circle id="Ellipse 543" cx="249" cy="675" r="10" transform="rotate(-180 249 675)" fill="#C4C4C4"/>
+<circle id="Ellipse 594" cx="354" cy="678" r="21" fill="#FECA19"/>
+<circle id="Ellipse 598" cx="266.801" cy="727" r="21" fill="#FECA19"/>
+<circle id="Ellipse 595" cx="441" cy="720" r="21" fill="#FECA19"/>
+<circle id="Ellipse 596" cx="382" cy="727" r="21" fill="#FECA19"/>
+<path id="D2_2" d="M478.013 760H225V645H440H440.443L440.741 644.672L469.443 613H502V735.015C494.727 735.228 488.801 737.784 484.647 742.189C480.501 746.587 478.205 752.738 478.013 760Z" stroke="#C4C4C4" stroke-width="2"/>
+<circle id="Ellipse 540" cx="290.801" cy="679" r="10" transform="rotate(-180 290.801 679)" fill="#C4C4C4"/>
+</g>
+<g id="B2">
+<circle id="Ellipse 577" cx="283.801" cy="355.5" r="10" transform="rotate(-180 283.801 355.5)" fill="#C4C4C4"/>
+<circle id="Ellipse 579" cx="238.801" cy="289.5" r="10" transform="rotate(-180 238.801 289.5)" fill="#C4C4C4"/>
+<circle id="Ellipse 580" cx="280" cy="199" r="10" transform="rotate(-180 280 199)" fill="#C4C4C4"/>
+<circle id="Ellipse 557" cx="227.801" cy="203.5" r="21" fill="#FECA19"/>
+<circle id="Ellipse 558" cx="278.801" cy="307.5" r="21" fill="#FECA19"/>
+<circle id="Ellipse 559" cx="278.801" cy="244.5" r="21" fill="#FECA19"/>
+<circle id="Ellipse 560" cx="229" cy="332" r="21" fill="#FECA19"/>
+<path id="B2_2" d="M270 368H200V178H289H289.414L289.707 177.707L307 160.414V404.586L270.707 368.293L270.414 368H270Z" stroke="#C4C4C4" stroke-width="2"/>
+<circle id="Ellipse 578" cx="222.801" cy="248.5" r="10" transform="rotate(-180 222.801 248.5)" fill="#C4C4C4"/>
+</g>
+<g id="A3">
+<circle id="Ellipse 528_2" cx="337" cy="90.7019" r="10" fill="#C4C4C4"/>
+<circle id="Ellipse 529" cx="337" cy="44.2596" r="10" fill="#C4C4C4"/>
+<circle id="Ellipse 531" cx="461.801" cy="89.6923" r="10" fill="#C4C4C4"/>
+<circle id="Ellipse 551" cx="386" cy="78.4808" r="21" fill="#FECA19"/>
+<circle id="Ellipse 554" cx="444" cy="54.25" r="21" fill="#FECA19"/>
+<path id="A3_2" d="M443.952 26.2453V12H480V111H313V12H348.075V26.2453V27.2453H349.075H442.952H443.952V26.2453Z" stroke="#C4C4C4" stroke-width="2"/>
+<circle id="Ellipse 527" cx="407" cy="44.2212" r="10" fill="#C4C4C4"/>
+</g>
+<g id="B4">
+<circle id="Ellipse 517" cx="511.801" cy="172" r="10" fill="#C4C4C4"/>
+<circle id="Ellipse 519" cx="733" cy="165" r="10" fill="#C4C4C4"/>
+<circle id="Ellipse 520" cx="507" cy="44" r="10" fill="#C4C4C4"/>
+<circle id="Ellipse 544" cx="690" cy="144" r="21" fill="#FECA19"/>
+<circle id="Ellipse 539" cx="547.801" cy="153" r="21" fill="#FECA19"/>
+<circle id="Ellipse 538" cx="622.801" cy="164" r="21" fill="#FECA19"/>
+<circle id="Ellipse 537" cx="540" cy="88" r="21" fill="#FECA19"/>
+<path id="B4_2" d="M587 117V118H588H752V195H486V116.43V12H587V117Z" stroke="#C4C4C4" stroke-width="2"/>
+<circle id="Ellipse 518" cx="586.801" cy="142" r="10" fill="#C4C4C4"/>
+</g>
+<g id="D6">
+<circle id="Ellipse 474" cx="985.801" cy="614" r="10" fill="#C4C4C4"/>
+<circle id="Ellipse 476" cx="921" cy="605" r="10" fill="#C4C4C4"/>
+<circle id="Ellipse 477" cx="859" cy="734" r="10" fill="#C4C4C4"/>
+<g id="Group 410">
+<rect id="Rectangle 1145" x="892" y="727" width="53" height="22" fill="#C4C4C4"/>
+<text id="1-4_2" fill="black" xml:space="preserve" style="white-space: pre" font-family="IBM Plex Mono" font-size="16" font-weight="600" letter-spacing="0em"><tspan x="906.109" y="744">1-4</tspan></text>
+</g>
+<circle id="Ellipse 479" cx="937" cy="649" r="21" fill="#FECA19"/>
+<circle id="Ellipse 481" cx="887" cy="685" r="21" fill="#FECA19"/>
+<circle id="Ellipse 480" cx="873" cy="604" r="21" fill="#FECA19"/>
+<path id="D6_2" d="M836.649 632.239L774.214 579H1011V653.75H988.001H987.001V654.75V760H837V633V632.539L836.649 632.239Z" stroke="#C4C4C4" stroke-width="2"/>
+<circle id="Ellipse 475" cx="946" cy="705" r="10" fill="#C4C4C4"/>
+</g>
+<g id="D7">
+<path id="D7_2" d="M1017 658V466H1122V760H993V659H1016H1017V658Z" stroke="#C4C4C4" stroke-width="2"/>
+<circle id="Ellipse 418_2" cx="1084" cy="720" r="21" fill="#FECA19"/>
+<circle id="Ellipse 423_2" cx="1052" cy="607" r="21" fill="#FECA19"/>
+<circle id="Ellipse 289_2" cx="1090" cy="513" r="21" fill="#FECA19"/>
+<circle id="Ellipse 419_2" cx="1095" cy="658" r="21" fill="#FECA19"/>
+<circle id="Ellipse 420_2" cx="1047" cy="553" r="10" fill="#C4C4C4"/>
+<circle id="Ellipse 422_2" cx="1020" cy="738" r="10" fill="#C4C4C4"/>
+<circle id="Ellipse 296_3" cx="1032" cy="684" r="10" fill="#C4C4C4"/>
+<circle id="Ellipse 421_2" cx="1100" cy="578" r="10" fill="#C4C4C4"/>
+</g>
+<g id="D5">
+<circle id="Ellipse 468" cx="941" cy="422" r="10" fill="#C4C4C4"/>
+<circle id="Ellipse 469" cx="976" cy="449" r="10" fill="#C4C4C4"/>
+<circle id="Ellipse 470" cx="977" cy="545" r="10" fill="#C4C4C4"/>
+<g id="Group 409">
+<rect id="Rectangle 1145_2" x="850" y="409" width="53" height="22" fill="#C4C4C4"/>
+<text id="1-4_3" fill="black" xml:space="preserve" style="white-space: pre" font-family="IBM Plex Mono" font-size="16" font-weight="600" letter-spacing="0em"><tspan x="864.109" y="426">1-4</tspan></text>
+</g>
+<circle id="Ellipse 471" cx="915" cy="480" r="21" fill="#FECA19"/>
+<circle id="Ellipse 472" cx="972" cy="496" r="21" fill="#FECA19"/>
+<circle id="Ellipse 473" cx="915" cy="539" r="21" fill="#FECA19"/>
+<g id="Group 473">
+<circle id="Ellipse 389_3" cx="863" cy="539" r="21" fill="#FECA19"/>
+<text id="1-2" fill="black" xml:space="preserve" style="white-space: pre" font-family="IBM Plex Mono" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="852.227" y="542.438">1-2</tspan></text>
+</g>
+<path id="D5_2" d="M839 518.5V400H1011V573H773.775L838.638 519.27L839 518.97V518.5Z" stroke="#C4C4C4" stroke-width="2"/>
+<circle id="Ellipse 467" cx="869.801" cy="467" r="10" fill="#C4C4C4"/>
+</g>
+<g id="C6">
+<circle id="Ellipse 460" cx="966" cy="370" r="10" fill="#C4C4C4"/>
+<circle id="Ellipse 461" cx="984.801" cy="248" r="10" fill="#C4C4C4"/>
+<circle id="Ellipse 462" cx="923" cy="315" r="10" fill="#C4C4C4"/>
+<circle id="Ellipse 463" cx="876" cy="300" r="10" fill="#C4C4C4"/>
+<circle id="Ellipse 464" cx="923" cy="360" r="21" fill="#FECA19"/>
+<circle id="Ellipse 465" cx="872" cy="340" r="21" fill="#FECA19"/>
+<g id="Group 953">
+<circle id="Ellipse 389_4" cx="952" cy="277" r="21" fill="#FECA19"/>
+<text id="1-3" fill="black" xml:space="preserve" style="white-space: pre" font-family="IBM Plex Mono" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="941.227" y="280.438">1-3</tspan></text>
+</g>
+<path id="C6_2" d="M904.5 271H904.887L905.173 270.739L955.387 225H1011V282H987H986V283V361V362H987H1011V394H838.918V271H904.5Z" stroke="#C4C4C4" stroke-width="2"/>
+</g>
+<g id="C5">
+<circle id="Ellipse 588" cx="808.801" cy="259" r="10" fill="#C4C4C4"/>
+<circle id="Ellipse 589" cx="762.801" cy="279" r="10" fill="#C4C4C4"/>
+<circle id="Ellipse 590" cx="779" cy="224" r="10" fill="#C4C4C4"/>
+<circle id="Ellipse 603" cx="720" cy="302" r="21" fill="#FECA19"/>
+<circle id="Ellipse 604" cx="802.801" cy="302" r="21" fill="#FECA19"/>
+<circle id="Ellipse 605" cx="784" cy="165" r="21" fill="#FECA19"/>
+<g id="Group 954">
+<circle id="Ellipse 389_5" cx="693" cy="252" r="21" fill="#FECA19"/>
+<text id="2-2" fill="black" xml:space="preserve" style="white-space: pre" font-family="IBM Plex Mono" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="682.227" y="255.438">2-2</tspan></text>
+</g>
+<path id="C5_2" d="M809 201H833V390.971L765.609 339.207L765.34 339H765H664V201H757.5H758.5V200V118H807.506L808 200.006L808.006 201H809Z" stroke="#C4C4C4" stroke-width="2"/>
+<circle id="Ellipse 591" cx="733" cy="232" r="10" fill="#C4C4C4"/>
+</g>
+<g id="G">
+<circle id="Ellipse 482" cx="809" cy="479" r="10" fill="#C4C4C4"/>
+<circle id="Ellipse 484" cx="694" cy="482" r="10" fill="#C4C4C4"/>
+<circle id="Ellipse 485" cx="685" cy="446" r="10" fill="#C4C4C4"/>
+<circle id="Ellipse 428" cx="747" cy="453" r="34.5" fill="#353535" stroke="#353535"/>
+<circle id="Ellipse 486" cx="756" cy="531" r="21" fill="#FECA19"/>
+<circle id="Ellipse 490" cx="693" cy="524" r="21" fill="#FECA19"/>
+<circle id="Ellipse 488" cx="760" cy="392" r="21" fill="#FECA19"/>
+<g id="Group 955">
+<circle id="Ellipse 389_6" cx="699" cy="388" r="21" fill="#FECA19"/>
+<text id="1-5" fill="black" xml:space="preserve" style="white-space: pre" font-family="IBM Plex Mono" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="688.227" y="391.438">1-5</tspan></text>
+</g>
+<path id="G_2" d="M651 393.169V367H663.035H664.035V366V345H762.465L833 399.491V515.534L764.636 573H664V552V551H663H651V522.843L663.789 506.424L664 506.153V505.81V411V410.669L663.803 410.404L651 393.169Z" stroke="#C4C4C4" stroke-width="2"/>
+<circle id="Ellipse 483" cx="804.801" cy="423" r="10" fill="#C4C4C4"/>
+</g>
+<g id="CR">
+<circle id="Ellipse 492" cx="630" cy="460" r="10" fill="#C4C4C4"/>
+<circle id="Ellipse 498" cx="567" cy="548" r="10" fill="#C4C4C4"/>
+<circle id="Ellipse 493" cx="516.801" cy="473" r="10" fill="#C4C4C4"/>
+<circle id="Ellipse 427" cx="564" cy="454" r="34.5" fill="#353535" stroke="#353535"/>
+<circle id="Ellipse 491" cx="591" cy="348" r="21" fill="#FECA19"/>
+<circle id="Ellipse 499" cx="524" cy="539" r="21" fill="#FECA19"/>
+<circle id="Ellipse 500" cx="608" cy="510" r="21" fill="#FECA19"/>
+<g id="Group 956">
+<circle id="Ellipse 389_7" cx="528" cy="389" r="21" fill="#FECA19"/>
+<text id="1-4_4" fill="black" xml:space="preserve" style="white-space: pre" font-family="IBM Plex Mono" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="517.227" y="392.438">1-4</tspan></text>
+</g>
+<path id="CR_2" d="M658 344.957V361H646H645V362V395.5V395.831L645.197 396.096L658 413.331V504.145L645.224 519.869L645 520.145V520.5V556V557H646H658V574.493L613.673 607H474.786L503.734 575.679L504.25 575.121L503.851 574.474L482.062 539.216L482 360.361L503.769 334.139L504.284 333.519L503.788 332.884L483.551 307H614.127L658 344.957Z" stroke="#C4C4C4" stroke-width="2"/>
+<circle id="Ellipse 496" cx="593" cy="399" r="10" fill="#C4C4C4"/>
+</g>
+<g id="D3">
+<circle id="Ellipse 486_2" cx="689" cy="698" r="10" fill="#C4C4C4"/>
+<circle id="Ellipse 487" cx="560" cy="705" r="10" fill="#C4C4C4"/>
+<circle id="Ellipse 490_2" cx="763" cy="627" r="10" fill="#C4C4C4"/>
+<circle id="Ellipse 494" cx="626" cy="713" r="21" fill="#FECA19"/>
+<circle id="Ellipse 497" cx="695" cy="631" r="21" fill="#FECA19"/>
+<circle id="Ellipse 495" cx="550" cy="660" r="21" fill="#FECA19"/>
+<g id="Group 957">
+<circle id="Ellipse 389_8" cx="764" cy="709" r="21" fill="#FECA19"/>
+<text id="1-3_2" fill="black" xml:space="preserve" style="white-space: pre" font-family="IBM Plex Mono" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="753.227" y="712.438">1-3</tspan></text>
+</g>
+<path id="D3_2" d="M615.5 613H615.827L616.09 612.807L662.327 579H765.88L831 634.959V760H531.987C531.795 752.738 529.499 746.587 525.353 742.189C521.199 737.784 515.273 735.228 508 735.015V613H615.5Z" stroke="#C4C4C4" stroke-width="2"/>
+<circle id="Ellipse 489" cx="626.301" cy="650" r="10" fill="#C4C4C4"/>
+</g>
+<g id="A4">
+<circle id="Ellipse 521" cx="751" cy="43" r="10" fill="#C4C4C4"/>
+<circle id="Ellipse 522" cx="708" cy="34" r="10" fill="#C4C4C4"/>
+<circle id="Ellipse 524" cx="799" cy="40" r="10" fill="#C4C4C4"/>
+<circle id="Ellipse 548_2" cx="637" cy="79" r="21" fill="#FECA19"/>
+<circle id="Ellipse 549" cx="661" cy="36" r="21" fill="#FECA19"/>
+<circle id="Ellipse 550" cx="795" cy="81" r="21" fill="#FECA19"/>
+<g id="Group 958">
+<circle id="Ellipse 389_9" cx="739" cy="80" r="21" fill="#FECA19"/>
+<text id="1-3_3" fill="black" xml:space="preserve" style="white-space: pre" font-family="IBM Plex Mono" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="728.227" y="83.4382">1-3</tspan></text>
+</g>
+<path id="A4_2" d="M810.605 12L830 30.1682V112H593V30.1452L610.918 12H810.605Z" stroke="#C4C4C4" stroke-width="2"/>
+<circle id="Ellipse 523" cx="692" cy="71" r="10" fill="#C4C4C4"/>
+</g>
+<g id="A2">
+<circle id="Ellipse 534" cx="279.801" cy="147" r="10" fill="#C4C4C4"/>
+<circle id="Ellipse 535" cx="197.801" cy="133" r="10" fill="#C4C4C4"/>
+<circle id="Ellipse 536" cx="199.801" cy="40" r="10" fill="#C4C4C4"/>
+<circle id="Ellipse 563" cx="244.801" cy="129" r="21" fill="#FECA19"/>
+<circle id="Ellipse 565" cx="218.801" cy="77" r="21" fill="#FECA19"/>
+<g id="Group 960">
+<circle id="Ellipse 389_10" cx="273.801" cy="45" r="21" fill="#FECA19"/>
+<text id="1-3_4" fill="black" xml:space="preserve" style="white-space: pre" font-family="IBM Plex Mono" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="263.027" y="48.4382">1-3</tspan></text>
+</g>
+<path id="A2_2" d="M286.799 172H199.988V157.386V156.386H198.988H174V42.0765L196.748 12H307V152.088L286.799 172Z" stroke="#C4C4C4" stroke-width="2"/>
+<circle id="Ellipse 532" cx="279.801" cy="93" r="10" fill="#C4C4C4"/>
+</g>
+<g id="B1">
+<circle id="Ellipse 560_2" cx="80" cy="282" r="10" transform="rotate(-180 80 282)" fill="#C4C4C4"/>
+<circle id="Ellipse 562" cx="110.801" cy="218" r="10" transform="rotate(-180 110.801 218)" fill="#C4C4C4"/>
+<circle id="Ellipse 564" cx="164.801" cy="222" r="10" transform="rotate(-180 164.801 222)" fill="#C4C4C4"/>
+<circle id="Ellipse 567" cx="118" cy="322" r="21" fill="#FECA19"/>
+<circle id="Ellipse 568" cx="46" cy="331" r="21" fill="#FECA19"/>
+<circle id="Ellipse 569" cx="132" cy="260" r="21" fill="#FECA19"/>
+<g id="Group 962">
+<circle id="Ellipse 389_11" cx="62" cy="228" r="21" fill="#FECA19"/>
+<text id="1-3_5" fill="black" xml:space="preserve" style="white-space: pre" font-family="IBM Plex Mono" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="51.2266" y="231.438">1-3</tspan></text>
+</g>
+<path id="B1_2" d="M141 195H141.423L141.718 194.696L173.423 162H193.912V367H13L13.0017 225.414L43.4142 195H141Z" stroke="#C4C4C4" stroke-width="2"/>
+<circle id="Ellipse 561" cx="159.801" cy="297" r="10" transform="rotate(-180 159.801 297)" fill="#C4C4C4"/>
+</g>
+<g id="F2">
+<circle id="Ellipse 501" cx="447" cy="536" r="10" fill="#C4C4C4"/>
+<circle id="Ellipse 504" cx="442" cy="595" r="10" fill="#C4C4C4"/>
+<circle id="Ellipse 426" cx="394.801" cy="545" r="34.5" fill="#353535" stroke="#353535"/>
+<circle id="Ellipse 503" cx="349" cy="485" r="21" fill="#FECA19"/>
+<circle id="Ellipse 505" cx="345.801" cy="565" r="21" fill="#FECA19"/>
+<g id="Group 966">
+<circle id="Ellipse 389_12" cx="447" cy="484" r="21" fill="#FECA19"/>
+<text id="1-3_6" fill="black" xml:space="preserve" style="white-space: pre" font-family="IBM Plex Mono" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="436.227" y="487.438">1-3</tspan></text>
+</g>
+<g id="Group 411">
+<rect id="Rectangle 1145_3" x="361" y="606" width="53" height="22" fill="#C4C4C4"/>
+<text id="1-4_5" fill="black" xml:space="preserve" style="white-space: pre" font-family="IBM Plex Mono" font-size="16" font-weight="600" letter-spacing="0em"><tspan x="375.109" y="623">1-4</tspan></text>
+</g>
+<path id="F2_2" d="M313 453H476V541V541.284L476.149 541.525L496.75 574.88L437.562 639H333.415L313.038 618.586L313 453Z" stroke="#C4C4C4" stroke-width="2"/>
+<circle id="Ellipse 506" cx="395" cy="588" r="10" fill="#C4C4C4"/>
+<circle id="Ellipse 502" cx="396" cy="500" r="10" fill="#C4C4C4"/>
+</g>
+<g id="C2">
+<circle id="Ellipse 582" cx="258.801" cy="507" r="10" transform="rotate(-180 258.801 507)" fill="#C4C4C4"/>
+<circle id="Ellipse 583" cx="154.801" cy="470" r="10" transform="rotate(-180 154.801 470)" fill="#C4C4C4"/>
+<circle id="Ellipse 584" cx="223.801" cy="475" r="10" transform="rotate(-180 223.801 475)" fill="#C4C4C4"/>
+<circle id="Ellipse 585" cx="220" cy="581" r="10" transform="rotate(-180 220 581)" fill="#C4C4C4"/>
+<circle id="Ellipse 592" cx="262" cy="425" r="21" fill="#FECA19"/>
+<circle id="Ellipse 593" cx="199" cy="522" r="21" fill="#FECA19"/>
+<g id="Group 967">
+<circle id="Ellipse 389_13" cx="179" cy="417" r="21" fill="#FECA19"/>
+<text id="1-5_2" fill="black" xml:space="preserve" style="white-space: pre" font-family="IBM Plex Mono" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="168.227" y="420.438">1-5</tspan></text>
+</g>
+<g id="Group 968">
+<circle id="Ellipse 389_14" cx="269.801" cy="577" r="21" fill="#FECA19"/>
+<text id="1-4_6" fill="black" xml:space="preserve" style="white-space: pre" font-family="IBM Plex Mono" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="259.027" y="580.438">1-4</tspan></text>
+</g>
+<path id="C2_2" d="M307 620.5V620.915L307.293 621.208L325.084 638.975H223.177L118 495.326V373H266.589L307 412.918V620.5Z" stroke="#C4C4C4" stroke-width="2"/>
+</g>
+<g id="F1">
+<circle id="Ellipse 508" cx="340" cy="299" r="10" fill="#C4C4C4"/>
+<circle id="Ellipse 509" cx="351.801" cy="425" r="10" fill="#C4C4C4"/>
+<g id="Group 411_2">
+<rect id="Rectangle 1145_4" x="365" y="280" width="53" height="22" fill="#C4C4C4"/>
+<text id="1-4_7" fill="black" xml:space="preserve" style="white-space: pre" font-family="IBM Plex Mono" font-size="16" font-weight="600" letter-spacing="0em"><tspan x="379.109" y="297">1-4</tspan></text>
+</g>
+<circle id="Ellipse 425" cx="395.801" cy="364" r="34.5" fill="#353535" stroke="#353535"/>
+<circle id="Ellipse 511" cx="449.801" cy="324" r="21" fill="#FECA19"/>
+<circle id="Ellipse 512" cx="343" cy="368" r="21" fill="#FECA19"/>
+<g id="Group 965">
+<circle id="Ellipse 389_15" cx="427" cy="411" r="21" fill="#FECA19"/>
+<text id="1-3_7" fill="black" xml:space="preserve" style="white-space: pre" font-family="IBM Plex Mono" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="416.227" y="414.438">1-3</tspan></text>
+</g>
+<path id="F1_2" d="M476.344 358.61L476.12 358.885V359.241V403.555V446.869H313V290.485L338.347 270.5H448.015L497.219 332.989L476.344 358.61Z" stroke="#C4C4C4" stroke-width="2"/>
+<circle id="Ellipse 507" cx="370" cy="325" r="10" fill="#C4C4C4"/>
+<circle id="Ellipse 510" cx="431.801" cy="364" r="10" fill="#C4C4C4"/>
+</g>
+<g id="DC">
+<circle id="Ellipse 448" cx="90" cy="92" r="34.5" fill="#353535" stroke="#353535"/>
+<circle id="Ellipse 586" cx="132" cy="130" r="21" fill="#FECA19"/>
+<circle id="Ellipse 587" cx="61.8008" cy="38" r="21" fill="#FECA19"/>
+<g id="Group 961">
+<circle id="Ellipse 389_16" cx="49" cy="136" r="21" fill="#FECA19"/>
+<text id="2-4" fill="black" xml:space="preserve" style="white-space: pre" font-family="IBM Plex Mono" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="38.2266" y="139.438">2-4</tspan></text>
+</g>
+<circle id="Ellipse 572" cx="37.8008" cy="83" r="10" transform="rotate(-180 37.8008 83)" fill="#C4C4C4"/>
+<circle id="Ellipse 566" cx="88" cy="162" r="10" transform="rotate(-180 88 162)" fill="#C4C4C4"/>
+<circle id="Ellipse 570" cx="146" cy="65" r="10" transform="rotate(-180 146 65)" fill="#C4C4C4"/>
+<path id="DC_2" d="M168 158.756L137.587 189H44.9215L13 156.279V44.8111C13 34.1137 16.6593 25.9429 22.675 20.4392C28.7033 14.924 37.1941 12 47 12H141.582L168 38.7577V158.756Z" stroke="#C4C4C4" stroke-width="2"/>
+<circle id="Ellipse 571" cx="114.801" cy="52" r="10" transform="rotate(-180 114.801 52)" fill="#C4C4C4"/>
+</g>
+<g id="K">
+<circle id="Ellipse 429" cx="63" cy="428" r="34.5" fill="#353535" stroke="#353535"/>
+<circle id="Ellipse 574" cx="65" cy="563" r="21" fill="#FECA19"/>
+<circle id="Ellipse 575" cx="41" cy="479" r="21" fill="#FECA19"/>
+<g id="Group 969_2">
+<circle id="Ellipse 389_17" cx="124" cy="560" r="21" fill="#FECA19"/>
+<text id="1-4_8" fill="black" xml:space="preserve" style="white-space: pre" font-family="IBM Plex Mono" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="113.227" y="563.438">1-4</tspan></text>
+</g>
+<path id="K_2" d="M13 571.181V373H112V496.5V496.828L112.195 497.093L188.022 600.084H40.8509L13 571.181Z" stroke="#C4C4C4" stroke-width="2"/>
+<circle id="Ellipse 552" cx="83" cy="515" r="10" transform="rotate(-180 83 515)" fill="#C4C4C4"/>
+<circle id="Ellipse 555" cx="31" cy="529" r="10" transform="rotate(-180 31 529)" fill="#C4C4C4"/>
+<circle id="Ellipse 556" cx="34" cy="395" r="10" transform="rotate(-180 34 395)" fill="#C4C4C4"/>
+<circle id="Ellipse 553" cx="90" cy="468" r="10" transform="rotate(-180 90 468)" fill="#C4C4C4"/>
+</g>
+<g id="J">
+<circle id="Ellipse 429_2" cx="893.555" cy="119.097" r="34.5" fill="#353535" stroke="#C4C4C4"/>
+<circle id="Ellipse 602" cx="923" cy="173" r="21" fill="#FECA19"/>
+<circle id="Ellipse 603_2" cx="880" cy="222" r="21" fill="#FECA19"/>
+<g id="Group 959">
+<circle id="Ellipse 389_18" cx="914.801" cy="48" r="21" fill="#FECA19"/>
+<text id="1-4_9" fill="black" xml:space="preserve" style="white-space: pre" font-family="IBM Plex Mono" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="904.027" y="51.4382">1-4</tspan></text>
+</g>
+<circle id="Ellipse 599" cx="864" cy="40" r="10" fill="#C4C4C4"/>
+<circle id="Ellipse 600" cx="841" cy="148" r="10" fill="#C4C4C4"/>
+<circle id="Ellipse 601" cx="933.801" cy="82" r="10" fill="#C4C4C4"/>
+<path id="J_2" d="M902.608 265H839.007L839.5 196.007L839.507 195H838.5H813.994L813.506 118H835H836V117V12H1004.03C986.158 16.9228 973.244 27.309 964.538 40.6407C954.404 56.1573 950 75.6121 950 95V221.063L902.608 265Z" stroke="#C4C4C4" stroke-width="2"/>
+<circle id="Ellipse 597" cx="882.801" cy="154" r="10" fill="#C4C4C4"/>
+</g>
+<g id="B3">
+<circle id="Ellipse 526" cx="379.801" cy="233" r="21" fill="#FECA19"/>
+<circle id="Ellipse 525" cx="433.801" cy="159" r="21" fill="#FECA19"/>
+<g id="Group 963">
+<circle id="Ellipse 389_19" cx="351.801" cy="154" r="21" fill="#FECA19"/>
+<text id="1-5_3" fill="black" xml:space="preserve" style="white-space: pre" font-family="IBM Plex Mono" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="341.027" y="157.438">1-5</tspan></text>
+</g>
+<g id="Group 964">
+<circle id="Ellipse 389_20" cx="439.801" cy="229" r="21" fill="#FECA19"/>
+<text id="1-4_10" fill="black" xml:space="preserve" style="white-space: pre" font-family="IBM Plex Mono" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="429.027" y="232.438">1-4</tspan></text>
+</g>
+<circle id="Ellipse 606" cx="340.801" cy="228" r="10" fill="#C4C4C4"/>
+<circle id="Ellipse 607" cx="392.801" cy="142" r="10" fill="#C4C4C4"/>
+<circle id="Ellipse 609" cx="460.801" cy="193" r="10" fill="#C4C4C4"/>
+<path id="B3_2" d="M336.007 265.208L313 282.965V117H480V302.569L451.292 265.389L450.991 265H450.5H336.618H336.277L336.007 265.208Z" stroke="#C4C4C4" stroke-width="2"/>
+<circle id="Ellipse 608" cx="379.801" cy="184" r="10" fill="#C4C4C4"/>
+</g>
+<rect id="D2-D3" x="501" y="694" width="30" height="8" transform="rotate(-90 501 694)" fill="#C4C4C4"/>
+<rect id="S-C7" x="1040.8" y="218" width="30" height="8" fill="#353535"/>
+<rect id="B4-C5" x="692" y="194" width="30" height="8" fill="#353535"/>
+<rect id="B4-C4" x="555" y="194" width="30" height="8" fill="#353535"/>
+<rect id="C5-G" x="699" y="338" width="30" height="8" fill="#353535"/>
+<rect id="G-D3" x="704" y="572" width="30" height="8" fill="#353535"/>
+<rect id="C2-D2" x="253" y="638" width="30" height="8" fill="#353535"/>
+<rect id="B1-C2" x="142" y="366" width="30" height="8" fill="#353535"/>
+<rect id="C7-D7" x="1060" y="459" width="30" height="8" fill="#353535"/>
+<rect id="C6-C7" x="985" y="338" width="30" height="8" transform="rotate(-90 985 338)" fill="#353535"/>
+<rect id="A2-A3" x="306" y="76" width="30" height="8" transform="rotate(-90 306 76)" fill="#353535"/>
+<rect id="B2-B3" x="306" y="229" width="30" height="8" transform="rotate(-90 306 229)" fill="#353535"/>
+<rect id="B1-B2" x="193" y="282" width="30" height="8" transform="rotate(-90 193 282)" fill="#353535"/>
+<rect id="D5-D7" x="1010" y="537" width="30" height="8" transform="rotate(-90 1010 537)" fill="#353535"/>
+<rect id="C2-F2" x="306" y="571" width="30" height="8" transform="rotate(-90 306 571)" fill="#C4C4C4"/>
+<rect id="G-D5" x="832" y="482" width="30" height="8" transform="rotate(-90 832 482)" fill="#C4C4C4"/>
+<g id="Lock D6-D7">
+<rect id="D6-D7" x="986" y="714" width="30" height="8" transform="rotate(-90 986 714)" fill="#353535"/>
+<text id="1-3_8" transform="translate(999 687) rotate(90)" fill="#F86132" xml:space="preserve" style="white-space: pre" font-family="IBM Plex Mono" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="0.207031" y="12.5">1-3</tspan></text>
+</g>
+<g id="Lock DC-A2">
+<rect id="DC-A2" x="167" y="100" width="30" height="8" transform="rotate(-90 167 100)" fill="#353535"/>
+<text id="2-2_2" transform="translate(180 73) rotate(90)" fill="#F86132" xml:space="preserve" style="white-space: pre" font-family="IBM Plex Mono" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="0.207031" y="12.5">2-2</tspan></text>
+</g>
+<g id="Lock B1-K">
+<rect id="B1-K" x="48" y="365.964" width="30" height="8" fill="#353535"/>
+<text id="2-3" transform="translate(52.2031 361)" fill="#F86132" xml:space="preserve" style="white-space: pre" font-family="IBM Plex Mono" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="0.207031" y="12.5">2-3</tspan></text>
+</g>
+<g id="Lock C4-CR">
+<rect id="C4-CR" x="542" y="299.964" width="30" height="8" fill="#353535"/>
+<text id="1-3_9" transform="translate(546.203 295)" fill="#F86132" xml:space="preserve" style="white-space: pre" font-family="IBM Plex Mono" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="0.207031" y="12.5">1-3</tspan></text>
+</g>
+<g id="Lock CR-D3">
+<rect id="CR-D3" x="540" y="605.964" width="30" height="8" fill="#353535"/>
+<text id="1-4_11" transform="translate(544.203 601)" fill="#F86132" xml:space="preserve" style="white-space: pre" font-family="IBM Plex Mono" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="0.207031" y="12.5">1-4</tspan></text>
+</g>
+<g id="Lock A4-J">
+<rect id="A4-J" x="829" y="87" width="30" height="8" transform="rotate(-90 829 87)" fill="#353535"/>
+<text id="2-3_2" transform="translate(842 62) rotate(90)" fill="#F86132" xml:space="preserve" style="white-space: pre" font-family="IBM Plex Mono" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="0.207031" y="12.5">2-3</tspan></text>
+</g>
+<g id="Lock A4-B4">
+<rect id="A4-B4" x="586" y="87" width="30" height="8" transform="rotate(-90 586 87)" fill="#353535"/>
+<text id="1-4_12" transform="translate(599 62) rotate(90)" fill="#F86132" xml:space="preserve" style="white-space: pre" font-family="IBM Plex Mono" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="0.207031" y="12.5">1-4</tspan></text>
+</g>
+<rect id="F1-CR" x="475" y="415" width="30" height="8" transform="rotate(-90 475 415)" fill="#C4C4C4"/>
+<rect id="B3-B4" x="479" y="174" width="30" height="8" transform="rotate(-90 479 174)" fill="#C4C4C4"/>
+<rect id="B3-A3" x="381" y="110" width="30" height="8" fill="#C4C4C4"/>
+<rect id="F1-F2" x="382" y="446" width="30" height="8" fill="#C4C4C4"/>
+<rect id="K-E" x="86" y="599" width="30" height="8" fill="#C4C4C4"/>
+</g>
+</svg>
