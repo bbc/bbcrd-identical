@@ -1,0 +1,50 @@
+{
+  "name": "shared-experiences",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "export": "npm run build && next export",
+    "start": "next start",
+    "serve": "node -r esm server.js",
+    "serve-dev": "nodemon --ignore components/ --ignore pages/ --exec npm run serve",
+    "lint": "next lint",
+    "generate-sprites": "echo \"Use MP3Gain to normalize\" && cd ./public/static/sounds && audiosprite --loop crew --loop corruption --vbr 5 --vbr:vorbis 4 -o sprites -f howler2 -e webm,mp3 normalised/*.mp3"
+  },
+  "engines": {
+    "node": ">=12.x",
+    "npm": ">=7.x"
+  },
+  "dependencies": {
+    "@babel/core": "^7.17.8",
+    "@tailwindcss/aspect-ratio": "^0.4.0",
+    "bgio-effects": "^0.5.0",
+    "boardgame.io": "^0.49.11",
+    "esm": "^3.2.25",
+    "framer-motion": "^5.5.0",
+    "friendly-words": "^1.1.10",
+    "howler": "^2.2.3",
+    "lodash": "^4.17.20",
+    "nanoid": "^3.3.2",
+    "next": "^12.1.4",
+    "path-intersection": "^2.2.1",
+    "qrcode.react": "^1.0.1",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-use-gesture": "^9.0.1",
+    "simplex-noise": "^3.0.0",
+    "svg-parser": "^2.0.4",
+    "svg-path-bbox": "^1.0.1",
+    "windups": "^1.1.6"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.2",
+    "eslint": "^8.5.0",
+    "eslint-config-next": "^12.1.4",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^6.0.0",
+    "nodemon": "^2.0.18",
+    "postcss": "^8.4.5",
+    "tailwindcss": "^3.0.7"
+  }
+}

@@ -1,0 +1,116 @@
+@tailwind base;
+
+/* Write your own custom base styles here */
+
+body, html {
+  @apply bg-map-black;
+  @apply h-full;
+}
+
+#__next, .bgio-client {
+  @apply font-mono;
+  @apply font-medium;
+  @apply h-full;
+}
+
+button, textarea {
+  @apply font-medium;
+}
+
+/* Start purging... */
+@tailwind components;
+/* Stop purging. */
+
+/* Write your own custom component styles here */
+/* 
+
+/* Start purging... */
+@tailwind utilities;
+/* Stop purging. */
+
+/* Your own custom utilities */
+
+.h-fill {
+  height: 100vh;
+  height: stretch;
+}
+
+.filter-white {
+  filter: brightness(0) invert(1);
+}
+
+.filter-glass {
+  filter: saturate(200%) blur(20px);
+}
+
+.backdrop-filter-glass {
+  backdrop-filter: saturate(200%) blur(20px);
+}
+
+.filter-grayscale {
+  filter: grayscale(1);
+}
+
+.translate3d-0 {
+  transform: translate3d(0, 0, 0);
+}
+
+.animate-delay-100 {
+  animation-delay: 100ms;
+}
+
+.animate-delay-200 {
+  animation-delay: 200ms;
+}
+
+.animate-delay-300 {
+  animation-delay: 300ms;
+}
+
+.touch-none {
+  touch-action: none;
+}
+
+.tracking-loose {
+  letter-spacing: 0.5em;
+}
+
+@keyframes smash {
+  0% {
+    transform: translate(0, 10px);
+  }
+  10% {
+    transform: translate(20px, -30px);
+  }
+  20% {
+    transform: translate(-12px, 17px);
+  }
+  40% {
+    transform: translate(7px, -9px);
+  }
+  60% {
+    transform: translate(-3px, 4px);
+  }
+  80% {
+    transform: translate(1px, -1px);
+  }
+  100% {
+    transform: translate(0, 0);
+  }
+}
+
+.animate-smash {
+  animation-name: smash;
+  animation-duration: 0.3s;
+  animation-iteration-count: 3;
+  animation-timing-function: ease-in-out;
+}
+
+.-shadow-md {
+  box-shadow: 0 -4px 6px -1px rgba(0, 0, 0, 0.1);
+}
+
+.stroke-round {
+  stroke-linecap: round;
+	stroke-linejoin: round;
+}
