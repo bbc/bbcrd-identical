@@ -26,7 +26,7 @@
     "howler": "^2.2.3",
     "lodash": "^4.17.20",
     "nanoid": "^3.3.2",
-    "next": "^12.1.4",
+    "next": "^16.4.3",
     "path-intersection": "^2.2.1",
     "qrcode.react": "^1.0.1",
     "react": "^17.0.1",
